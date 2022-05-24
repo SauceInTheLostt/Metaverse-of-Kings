@@ -1,8 +1,6 @@
 # Metaverse-of-Kings
-Creating an NFT Metaverse that delves real life scenarios into the virtual world. 
-Other blurbs and descriptions will be added.
-Use this to add any further descriptions for the project.
+Metaverse of Kings is an NFT-based Virtual World platform where users will enter the virtual world and interact with other users. Much like life in the real world, users will get to work, buy property, shop, and other activities. 
 
 <h2>Introduction</h2>
-Metaverse of Kings is a VR experience that immerses the players into the Metaverse
-People can do real life tasks such as getting a job, purchasing land, and renting other items. 
+In this platform, users gets to enter the virtual world by using a standalone VR headset or PC. When they’re in the metaverse, users will get to interact with other users such as Chatting, Playing Minigames, and other interactions. Other than that, users will get to do jobs, buy and sell property, purchase essentials and needs in the metaverse such as clothes, transportation, building a home, designing and other activities. To make the world more interesting, there are many other things that would differ from the real world. One of which is the time system is faster.
+
